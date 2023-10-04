@@ -27,4 +27,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathluna/)](https://www.linkedin.com/in/mathluna/)
 [![Gmail Badge](https://img.shields.io/badge/-srmatheus6162@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:srmatheus6162@gmail.com)
-<a href='https://github.com/CanetaL/CanetaL'><img src='https://cdn-icons-png.flaticon.com/512/25/25231.png'></a>
+<a href='https://github.com/CanetaL/CanetaL'><img src='https://cdn-icons-png.flaticon.com/512/25/25231.png](https://pbs.twimg.com/media/F7n1WKUWAAAMqmP?format=webp&name=tiny)https://pbs.twimg.com/media/F7n1WKUWAAAMqmP?format=webp&name=tiny'></a>
