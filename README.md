@@ -24,6 +24,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathluna/)](https://www.linkedin.com/in/mathluna/)
+[![Linkedin](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathluna/)](https://www.linkedin.com/in/matholavoluna/)
 [![Gmail Badge](https://img.shields.io/badge/-srmatheus6162@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:srmatheus6162@gmail.com)
 <a href='https://github.com/MathOlavoLuna'><img src='https://www.shareicon.net/data/32x32/2015/10/06/113528_share_512x512.png'></a>
