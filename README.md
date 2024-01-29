@@ -1,7 +1,7 @@
 <h3>Sobre mim</h3>
 
-- 🤔 Tenho estudado ativamente os Conceitos da Análise e Desenvolvimento de Sistemas e as ferramentas essenciais da área..
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no <a href="https://www.uninter.com">Uninter</a>.
+- 🤔 Prazer me chamo Matheus e estou em Busca de me tornar um Desenvolvedor!
+- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uninter.com">Uninter</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **HTML | CSS | JS**.
 
 <h3>Minhas Skills</h3>
