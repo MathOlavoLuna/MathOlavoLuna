@@ -1,29 +1,19 @@
-<h3>Sobre mim</h3>
+## Heyy, Eu sou o Luna!!
 
-- 🤔 Prazer me chamo Matheus e estou em Busca de me tornar um Desenvolvedor!
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uninter.com">Uninter</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **HTML | CSS | JS**.
+- 🌱 &nbsp; Aprendendo mais sobre **VUE | LARAVEL | DESIGN**.
 
-<h3>Minhas Skills</h3>
-
-**Aplicações e dados**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
+<div>
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+</div>
 
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathluna/)](https://www.linkedin.com/in/matholavoluna/)
-[![Gmail Badge](https://img.shields.io/badge/-srmatheus6162@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:srmatheus6162@gmail.com)
-<a href='https://github.com/MathOlavoLuna'><img src='https://www.shareicon.net/data/32x32/2015/10/06/113528_share_512x512.png'></a>
+[![Gmail Badge](https://img.shields.io/badge/-srmatheus6162@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srmatheus6162@gmail.com)](mailto:srmatheus6162@gmail.com)
