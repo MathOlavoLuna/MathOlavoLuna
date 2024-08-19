@@ -1,7 +1,9 @@
-## Heyy, Eu sou o Luna!!
+## Heyy, I'm Luna!!
 
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uninter.com">Uninter</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **VUE | LARAVEL | DESIGN**.
+- 👨‍💻 FullStack Developer.
+- 👨‍🎓 Studying [Software developer](https://www.youtube.com/watch?v=GsuGjkGW1jA&pp=ygUSc29mdHdhcmUgZGV2ZWxvcGVy), [software engineer](https://www.youtube.com/watch?v=QPzmsQ86_HM&pp=ygURc29mdHdhcmUgZW5naW5lZXI%3D) at the Uninter University
+- 🎨 Making some videos on my Linkedin about my skills
+- 📝 Currently learning about **VUE | LARAVEL | DESIGN**.
 
 ##
 
@@ -23,5 +25,9 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathluna/)](https://www.linkedin.com/in/matholavoluna/)
+<img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+
+
+
+
 [![Gmail Badge](https://img.shields.io/badge/-srmatheus6162@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srmatheus6162@gmail.com)](mailto:srmatheus6162@gmail.com)
