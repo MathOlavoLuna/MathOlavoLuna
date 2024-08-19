@@ -17,7 +17,7 @@
 
 ##
 
-[![Spotify](https://novatorem-ht2skrrzb-matheus-projects-29645da0.vercel.app/api/spotify)](https://open.spotify.com/user/22hmiaue4pcqxcxaurix5m7sa)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22hmiaue4pcqxcxaurix5m7sa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=66c4ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ##
 
