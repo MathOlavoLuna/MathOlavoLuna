@@ -24,4 +24,4 @@
 ## Contact 📧
 
 <a href="https://www.linkedin.com/in/matholavoluna/" target="_blank"><img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/><a>
-<a href="srmatheus6162@gmail.com" target="_blank"><img width="32" height="30" src="https://imgs.search.brave.com/WmOFe_GNIJk-5qSd9NGkJhSktQaDBP-FFcvlqY5I3TM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni81OTY4LzU5Njg1/MzQucG5nP3NlbXQ9/YWlzX2h5YnJpZA"/><a>
+[<img width="32" height="30" src="https://imgs.search.brave.com/WmOFe_GNIJk-5qSd9NGkJhSktQaDBP-FFcvlqY5I3TM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni81OTY4LzU5Njg1/MzQucG5nP3NlbXQ9/YWlzX2h5YnJpZA"/>](mailto:srmatheus6162@gmail.com)
