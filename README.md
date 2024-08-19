@@ -3,6 +3,8 @@
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uninter.com">Uninter</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **VUE | LARAVEL | DESIGN**.
 
+##
+
 <div>
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
@@ -12,6 +14,12 @@
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div>
+
+##
+
+[![Spotify](https://novatorem-ht2skrrzb-matheus-projects-29645da0.vercel.app/api/spotify)](https://open.spotify.com/user/Luna)
+
+##
 
 <h3>Onde me encontrar</h3>
 
