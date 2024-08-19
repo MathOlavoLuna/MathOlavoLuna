@@ -23,11 +23,5 @@
 
 ##
 
-<h3>Onde me encontrar</h3>
-
-<img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-
-
-
-
-[![Gmail Badge](https://img.shields.io/badge/-srmatheus6162@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srmatheus6162@gmail.com)](mailto:srmatheus6162@gmail.com)
+<h1>Contact Me</h1>
+<a href="https://www.linkedin.com/in/matholavoluna/"><img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/><a>
