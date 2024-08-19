@@ -17,7 +17,7 @@
 
 ##
 
-[![Spotify](https://novatorem-ht2skrrzb-matheus-projects-29645da0.vercel.app/api/spotify)](https://open.spotify.com/user/Luna)
+[![Spotify](https://novatorem-ht2skrrzb-matheus-projects-29645da0.vercel.app/api/spotify)](https://open.spotify.com/user/22hmiaue4pcqxcxaurix5m7sa)
 
 ##
 
